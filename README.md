@@ -1,4 +1,4 @@
-# if-chain
+# if-chain [![Build Status][ci-img]][ci]
 Write conditions in functional style 👍
 
 Examples: 
