@@ -1,4 +1,4 @@
-# if-chain [![Build Status][ci-img]][ci]
+# if-chain [![Build Status](https://travis-ci.org/komarnitskyi/if-chain.svg?branch=master)](https://travis-ci.org/komarnitskyi/if-chain)
 Write conditions in functional style 👍
 
 Examples: 
